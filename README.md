@@ -5,9 +5,9 @@ Noch genereller lässt sich mit dem Skript jede Grafik in Scalable Capital als T
 # Ausführung
 - öffne Firefox
 - Login in Scalable Capital
-- > Broker
-- > Insights
-- > F12
-- > Console
-- > run script
+- Broker
+- Insights
+- F12
+- Console
+- run script
 - warten
